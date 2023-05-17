@@ -10,6 +10,5 @@ int main() {
             len = 0;
         }
     }
-    printf("\n");
     return 0;
 }
